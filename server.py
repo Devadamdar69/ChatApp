@@ -3,7 +3,7 @@ import select
 
 HEADER_LENGHT = 10
 SERVER = socket.gethostbyname(socket.gethostname())
-PORT = 5050
+PORT = 6969
 ADDR = (SERVER, PORT)
 FORMATE = "utf-8"
 
