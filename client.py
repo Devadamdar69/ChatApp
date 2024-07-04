@@ -5,7 +5,7 @@ import threading
 
 HEADER = 10
 IP = socket.gethostbyname(socket.gethostname())
-PORT = 5050
+PORT = 6969
 FORMATE = "utf-8"
 
 
